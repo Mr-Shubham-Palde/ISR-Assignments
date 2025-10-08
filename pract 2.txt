@@ -1,0 +1,2 @@
+Also add lm flag while compiling with gcc for the math library like
+gcc prac2.c -lm -o prac2
